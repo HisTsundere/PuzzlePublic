@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    font-family: Chalkduster, fantasy;
+    background-image: url("forest.webp");
+    background-size: cover;
+}
